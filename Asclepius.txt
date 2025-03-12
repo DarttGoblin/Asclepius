@@ -1,4 +1,4 @@
-Name: Asclepius
+Name: Asclepius ⚕️
 Description:
 	Asclepius involves developing a clinical Named Entity Recognition (NER) 
 	model to extract key biomedical entities—such as genes, proteins, symptoms, 

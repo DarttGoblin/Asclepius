@@ -188,7 +188,11 @@
 }
 @media only screen and (max-width: 600px) {
     .home-text-title {
-        font-size: 30px;
+        font-size: 25px;
+    }
+
+    .home-text-description {
+        font-size: 15px;
     }
 
     .home-images-container {

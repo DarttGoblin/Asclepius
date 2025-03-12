@@ -51,12 +51,3 @@ function UploadDocument() {
         }
     };
 }
-
-function isMobile() {
-    return /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
-}
-
-if (!isMobile()) {
-    take_image.classList.add('hide-take-image');
-    take_image.disabled = true;
-}

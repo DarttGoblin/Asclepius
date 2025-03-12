@@ -114,4 +114,8 @@
     .preview {
         width: 100%;
     }
+
+    .asclepius-title {
+        font-size: 30px;
+    }
 }
